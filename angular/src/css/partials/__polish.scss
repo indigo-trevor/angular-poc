@@ -1,0 +1,19 @@
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+  display: none !important;
+}
+
+// Custom highlight state
+::selection {
+  background: #fff; /* WebKit/Blink Browsers */
+  color: $magenta;
+}
+::-moz-selection {
+  background: #fff; /* Gecko Browsers */
+  color: $magenta;
+}
+
+select::-ms-expand {	display: none; }
+select{
+    -webkit-appearance: none;
+    appearance: none;
+}
