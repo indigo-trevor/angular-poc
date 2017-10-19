@@ -1,7 +1,7 @@
-#T-Mobile POC
+# T-Mobile POC
 POC built for T-Mobile that renders a single component
 
-##Dev Environment
+## Dev Environment
 * Front-end framework: [AngularJS 1](https://angularjs.org/)
 * Task-runner: [Gulp](http://gulpjs.com/)
 * Package manager: [npm](https://www.npmjs.com/)
